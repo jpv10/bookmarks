@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :842: for Floccus bookmark sync browser extension -->
+<!--- highestId :843: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -95,6 +95,9 @@
   <bookmark href="https://www.richelieu.com/us/en/category/sliding-system-solutions/sliding-solutions-for-cabinet-and-furniture-applications/hawa-folding-concepta-25-with-soft-close-hinges/1183393?nf_1031396=%281764651%29" id="35">
     <title>HAWA-Folding Concepta 25 with Soft-Close Hinges - Richelieu Hardware</title>
   </bookmark>
+</folder>
+<folder id="843">
+  <title>rclone</title>
 </folder>
 <bookmark href="https://luvvoice.com/" id="8">
   <title>Luvvoice: Free Convert Text to Speech Online, No Word Limit</title>
