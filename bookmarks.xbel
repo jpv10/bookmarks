@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :843: for Floccus bookmark sync browser extension -->
+<!--- highestId :847: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -98,6 +98,18 @@
 </folder>
 <folder id="843">
   <title>rclone</title>
+  <bookmark href="https://github.com/rclone-ui/rclone-ui" id="844">
+    <title>GitHub - rclone-ui/rclone-ui: The cross-platform desktop GUI for rclone &amp; S3.</title>
+  </bookmark>
+  <bookmark href="https://github.com/kapitainsky/RcloneBrowser" id="845">
+    <title>GitHub - kapitainsky/RcloneBrowser: Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.</title>
+  </bookmark>
+  <bookmark href="https://rcloneui.com/" id="846">
+    <title>Rclone UI — The desktop GUI for rclone &amp; S3</title>
+  </bookmark>
+  <bookmark href="https://rcloneview.com/" id="847">
+    <title>RcloneView | The Best GUI Tool for Cloud File Sync and Backup</title>
+  </bookmark>
 </folder>
 <bookmark href="https://luvvoice.com/" id="8">
   <title>Luvvoice: Free Convert Text to Speech Online, No Word Limit</title>
