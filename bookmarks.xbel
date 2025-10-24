@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :847: for Floccus bookmark sync browser extension -->
+<!--- highestId :850: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -64,6 +64,15 @@
   </bookmark>
   <bookmark href="https://support.lenovo.com/us/en/downloads/ds036974" id="29">
     <title>BIOS update utility for DOS - ThinkServer TS140, TS440 - Lenovo Support US</title>
+  </bookmark>
+  <bookmark href="https://datacentersupport.lenovo.com/us/en/products/servers/thinkserver/ts150/70lu/70lua01dcb/mj04fqgc/downloads/driver-list/component?name=BIOS%2FUEFI&amp;id=5AC6A815-321D-440E-8833-B07A93E0428C" id="848">
+    <title>servers :: thinkserver :: ts150 :: 70lu :: 70lua01dcb :: mj04fqgc - Lenovo Support US</title>
+  </bookmark>
+  <bookmark href="https://download.lenovo.com/pccbbs/thinkservers/bios_ts150-ts250_s06kt81l_fwktb8s_dos.txt" id="849">
+    <title>https://download.lenovo.com/pccbbs/thinkservers/bios_ts150-ts250_s06kt81l_fwktb8s_dos.txt</title>
+  </bookmark>
+  <bookmark href="https://download.lenovo.com/pccbbs/thinkservers/easyupdate1.9.9075_readme.txt" id="850">
+    <title>https://download.lenovo.com/pccbbs/thinkservers/easyupdate1.9.9075_readme.txt</title>
   </bookmark>
 </folder>
 <bookmark href="https://x.com/i/lists/1073407660337188865" id="5">
