@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :854: for Floccus bookmark sync browser extension -->
+<!--- highestId :855: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -2153,9 +2153,6 @@
   <bookmark href="https://192.168.1.182/ui/#/login" id="180">
     <title>Esxi 2 (182)</title>
   </bookmark>
-  <bookmark href="https://192.168.1.3:8006/#v1:0:18:4:::::::" id="181">
-    <title>pve - Proxmox Virtual Environment</title>
-  </bookmark>
   <bookmark href="https://192.168.1.4:8007/#pbsDashboard" id="853">
     <title>pbs - Proxmox Backup Server</title>
   </bookmark>
@@ -2179,6 +2176,9 @@
   </bookmark>
   <bookmark href="http://192.168.1.100/dashboard" id="188">
     <title>Spiceworks - Dashboard</title>
+  </bookmark>
+  <bookmark href="https://192.168.1.3:8006/" id="855">
+    <title>pve - Proxmox Virtual Environment</title>
   </bookmark>
 </folder>
 <bookmark href="https://www.cmfchile.cl/sitio/siac4/ingresoWebCiudadano.php" id="126">
