@@ -36,69 +36,6 @@
     <title>Home Page Prenot@mi</title>
   </bookmark>
 </folder>
-<folder id="4">
-  <title>Proxmox</title>
-  <bookmark href="https://www.proxmox.com/en/" id="21">
-    <title>Proxmox - Powerful open-source server solutions</title>
-  </bookmark>
-  <bookmark href="https://www.reddit.com/r/Proxmox/comments/16bjvbb/proxmox_backup_server_installed_as_a_vm/" id="22">
-    <title>Proxmox Backup Server installed as a VM : r/Proxmox</title>
-  </bookmark>
-  <bookmark href="https://www.youtube.com/watch?v=6C2JOsrZZZw" id="23">
-    <title>Ultimate Backup: How to Set Up Proxmox Backup Server in a VM! - YouTube</title>
-  </bookmark>
-  <bookmark href="https://gist.github.com/kdmukai/6d312056e0d4156045356310d07bbd8a" id="24">
-    <title>Run Proxmox Backup Server (PBS) on a Proxmox VE host · GitHub</title>
-  </bookmark>
-  <bookmark href="https://community-scripts.github.io/ProxmoxVE/" id="25">
-    <title>Proxmox VE Helper-Scripts</title>
-  </bookmark>
-  <bookmark href="https://www.driftar.ch/2018/09/03/vmware-clone-a-vm-with-snapshots-and-consolidate-it/" id="26">
-    <title>VMware – Clone a VM with snapshots (and consolidate it) – driftar&apos;s Blog</title>
-  </bookmark>
-  <bookmark href="https://www.techwrix.com/step-by-step-guide-to-migrate-from-vmware-to-proxmox/" id="27">
-    <title>How to Migrate Virtual Machines from VMware to Proxmox VE?</title>
-  </bookmark>
-  <bookmark href="https://readyspace.com.ph/proxmox-import-ovf/" id="28">
-    <title>Proxmox Import OVF: Easy VM Migration Guide</title>
-  </bookmark>
-  <bookmark href="https://support.lenovo.com/us/en/downloads/ds036974" id="29">
-    <title>BIOS update utility for DOS - ThinkServer TS140, TS440 - Lenovo Support US</title>
-  </bookmark>
-  <bookmark href="https://datacentersupport.lenovo.com/us/en/products/servers/thinkserver/ts150/70lu/70lua01dcb/mj04fqgc/downloads/driver-list/component?name=BIOS%2FUEFI&amp;id=5AC6A815-321D-440E-8833-B07A93E0428C" id="848">
-    <title>servers :: thinkserver :: ts150 :: 70lu :: 70lua01dcb :: mj04fqgc - Lenovo Support US</title>
-  </bookmark>
-  <bookmark href="https://download.lenovo.com/pccbbs/thinkservers/bios_ts150-ts250_s06kt81l_fwktb8s_dos.txt" id="849">
-    <title>https://download.lenovo.com/pccbbs/thinkservers/bios_ts150-ts250_s06kt81l_fwktb8s_dos.txt</title>
-  </bookmark>
-  <bookmark href="https://download.lenovo.com/pccbbs/thinkservers/easyupdate1.9.9075_readme.txt" id="850">
-    <title>https://download.lenovo.com/pccbbs/thinkservers/easyupdate1.9.9075_readme.txt</title>
-  </bookmark>
-  <bookmark href="https://support-en.sandisk.com/app/products/downloads/softwaredownloads" id="851">
-    <title>SanDisk Product Software Downloads | Sandisk</title>
-  </bookmark>
-  <bookmark href="https://support-en.sandisk.com/app/answers/detailweb/a_id/31759" id="852">
-    <title>Download, Install, Test Drive, and Update Firmware Using SANDISK Dashboard | Sandisk</title>
-  </bookmark>
-  <bookmark href="https://teknokafe.com/en/mounting-qnap-nas-nfs-backup-storage-on-proxmox-backup-server/" id="854">
-    <title>Mounting QNAP NAS NFS Backup Storage on Proxmox Backup Server - TeknoKafe</title>
-  </bookmark>
-  <bookmark href="https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/" id="858">
-    <title>Index of /groups/virt/virtio-win/direct-downloads/archive-virtio</title>
-  </bookmark>
-  <bookmark href="https://www.wundertech.net/proxmox-backup-server-nfs-storage/" id="860">
-    <title>How to Set Up Proxmox Backup Server with NFS Storage</title>
-  </bookmark>
-  <bookmark href="https://forum.proxmox.com/threads/using-cifs-nfs-as-datastore.72708/page-2#post-374341" id="861">
-    <title>Using CIFS/NFS as datastore | Page 2 | Proxmox Support Forum</title>
-  </bookmark>
-  <bookmark href="https://pbs.proxmox.com/docs/prune-simulator/" id="862">
-    <title>Proxmox Backup Server Prune Simulator</title>
-  </bookmark>
-  <bookmark href="https://rdr-it.com/en/proxmox-backup-with-proxmox-backup-server/" id="863">
-    <title>Proxmox: backup with Proxmox Backup Server - RDR-IT</title>
-  </bookmark>
-</folder>
 <bookmark href="https://x.com/i/lists/1073407660337188865" id="5">
   <title>Crypto / Twitter</title>
 </bookmark>
