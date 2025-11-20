@@ -2096,6 +2096,12 @@
 </folder>
 <folder id="125">
   <title>Servers</title>
+  <bookmark href="https://192.168.1.10:8006/" id="857">
+    <title>pve - Proxmox Virtual Environment</title>
+  </bookmark>
+  <bookmark href="https://192.168.1.11:8007/" id="859">
+    <title>pbs - Proxmox Backup Server</title>
+  </bookmark>
   <bookmark href="https://192.168.1.181/ui/#/login" id="179">
     <title>Esxi (181)</title>
   </bookmark>
@@ -2122,12 +2128,6 @@
   </bookmark>
   <bookmark href="http://192.168.1.100/dashboard" id="188">
     <title>Spiceworks - Dashboard</title>
-  </bookmark>
-  <bookmark href="https://192.168.1.10:8006/" id="857">
-    <title>pve - Proxmox Virtual Environment</title>
-  </bookmark>
-  <bookmark href="https://192.168.1.11:8007/" id="859">
-    <title>pbs - Proxmox Backup Server</title>
   </bookmark>
 </folder>
 <bookmark href="https://www.cmfchile.cl/sitio/siac4/ingresoWebCiudadano.php" id="126">
