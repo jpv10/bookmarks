@@ -548,15 +548,15 @@
       <title>draw my ui</title>
     </bookmark>
   </folder>
-  <bookmark href="https://suno.com/" id="864">
-    <title>Suno | AI Music</title>
-  </bookmark>
+  <folder id="865">
+    <title>Music</title>
+    <bookmark href="https://suno.com/" id="864">
+      <title>Suno | AI Music</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://chat.openai.com/chat" id="348">
     <title>ChatGPT</title>
   </bookmark>
-  <folder id="865">
-    <title>Music</title>
-  </folder>
   <bookmark href="https://chat.qwen.ai/" id="349">
     <title>Qwen</title>
   </bookmark>
