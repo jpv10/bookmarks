@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :865: for Floccus bookmark sync browser extension -->
+<!--- highestId :866: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
+</bookmark>
+<bookmark href="https://www.ledger.com/how-to-redeem" id="866">
+  <title>How to Redeem | Ledger</title>
 </bookmark>
 <folder id="2">
   <title>Padel</title>
