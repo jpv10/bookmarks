@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :866: for Floccus bookmark sync browser extension -->
+<!--- highestId :867: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -493,6 +493,9 @@
   </bookmark>
   <bookmark href="https://chat.qwen.ai/" id="349">
     <title>Qwen</title>
+  </bookmark>
+  <bookmark href="https://huggingface.co/spaces/Qwen/Qwen-TTS-Clone-Demo" id="867">
+    <title>Qwen TTS Clone Demo - a Hugging Face Space by Qwen</title>
   </bookmark>
   <bookmark href="https://unstuckstudy.com/" id="379">
     <title>Chat with all of your Course Materials | Unstuck AI</title>
