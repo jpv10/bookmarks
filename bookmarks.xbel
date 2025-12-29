@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :867: for Floccus bookmark sync browser extension -->
+<!--- highestId :868: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -460,6 +460,9 @@
   </folder>
   <folder id="233">
     <title>Data Analysis</title>
+    <bookmark href="https://julius.ai/chat?id=3b363399-da08-49a8-80ed-ecea2868a3f5" id="868">
+      <title>Julius AI: Chat with Your Data Using AI</title>
+    </bookmark>
     <bookmark href="https://www.chatcsv.co/" id="295">
       <title>ChatCSV | Your personal data analyst.</title>
     </bookmark>
