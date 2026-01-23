@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :870: for Floccus bookmark sync browser extension -->
+<!--- highestId :871: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -1949,7 +1949,7 @@
   <bookmark href="http://cuponelectronico.copec.cl//Default.aspx" id="221">
     <title>Copec - Cupón Electrónico</title>
   </bookmark>
-  <bookmark href="http://www.sii.cl/valores_y_fechas/dolar/dolar2025.htm" id="222">
+  <bookmark href="http://www.sii.cl/valores_y_fechas/dolar/dolar2026.htm" id="871">
     <title>DOLAR OBSERVADO</title>
   </bookmark>
   <bookmark href="https://www.sii.cl/valores_y_fechas/uf/uf2025.htm" id="223">
