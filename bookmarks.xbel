@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :871: for Floccus bookmark sync browser extension -->
+<!--- highestId :872: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -1952,7 +1952,7 @@
   <bookmark href="http://www.sii.cl/valores_y_fechas/dolar/dolar2026.htm" id="871">
     <title>DOLAR OBSERVADO</title>
   </bookmark>
-  <bookmark href="https://www.sii.cl/valores_y_fechas/uf/uf2025.htm" id="223">
+  <bookmark href="https://www.sii.cl/valores_y_fechas/uf/uf2026.htm" id="872">
     <title>U. F.</title>
   </bookmark>
   <bookmark href="https://www.sii.cl/valores_y_fechas/correccion_monetaria/correccion2021.htm" id="224">
