@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :872: for Floccus bookmark sync browser extension -->
+<!--- highestId :873: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -2441,5 +2441,8 @@
 </bookmark>
 <bookmark href="https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/" id="838">
   <title>This Week&apos;s Epic Games Store Freebie Is A Pretty Mice Adventure - GameSpot</title>
+</bookmark>
+<bookmark href="https://192.168.1.8:18789/chat?session=agent%3Amain%3Amain" id="873">
+  <title>OpenClaw Control</title>
 </bookmark>
 </xbel>
