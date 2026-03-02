@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :874: for Floccus bookmark sync browser extension -->
+<!--- highestId :875: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -34,6 +34,9 @@
   </bookmark>
   <bookmark href="https://prenotami.esteri.it/" id="20">
     <title>Home Page Prenot@mi</title>
+  </bookmark>
+  <bookmark href="https://serviziconsolari.esteri.it/home" id="875">
+    <title>FAST IT</title>
   </bookmark>
 </folder>
 <bookmark href="https://x.com/i/lists/1073407660337188865" id="5">
