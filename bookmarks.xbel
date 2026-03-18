@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :875: for Floccus bookmark sync browser extension -->
+<!--- highestId :877: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -37,6 +37,12 @@
   </bookmark>
   <bookmark href="https://serviziconsolari.esteri.it/home" id="875">
     <title>FAST IT</title>
+  </bookmark>
+</folder>
+<folder id="876">
+  <title>Reuniones</title>
+  <bookmark href="https://docs.google.com/document/d/1dh8dXkCZ5rxbLqI5JT1N5ovx8enLIqmZYbjzLGwFeq4/edit?tab=t.rrre9ty6py87" id="877">
+    <title>Reuniones Iunge - Documentos de Google</title>
   </bookmark>
 </folder>
 <bookmark href="https://x.com/i/lists/1073407660337188865" id="5">
