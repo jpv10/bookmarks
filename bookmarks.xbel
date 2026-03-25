@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :882: for Floccus bookmark sync browser extension -->
+<!--- highestId :883: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -57,6 +57,9 @@
     <title>Reuniones Sistemark - Documentos de Google</title>
   </bookmark>
 </folder>
+<bookmark href="https://chatgpt.com/translate/" id="883">
+  <title>ChatGPT Translate | Fast, Natural, 40+ Languages</title>
+</bookmark>
 <bookmark href="https://translate.kagi.com/" id="882">
   <title>Kagi Translate</title>
 </bookmark>
