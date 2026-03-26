@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :883: for Floccus bookmark sync browser extension -->
+<!--- highestId :884: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -39,6 +39,9 @@
     <title>FAST IT</title>
   </bookmark>
 </folder>
+<bookmark href="https://es.investing.com/currencies/eur-clp" id="884">
+  <title>Cambio Euro Peso chileno hoy | Cotización EUR/CLP - Investing.com</title>
+</bookmark>
 <folder id="876">
   <title>Reuniones</title>
   <bookmark href="https://docs.google.com/document/d/1dh8dXkCZ5rxbLqI5JT1N5ovx8enLIqmZYbjzLGwFeq4/edit?tab=t.rrre9ty6py87" id="877">
