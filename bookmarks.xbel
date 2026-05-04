@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :888: for Floccus bookmark sync browser extension -->
+<!--- highestId :889: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -2477,5 +2477,8 @@
 </bookmark>
 <bookmark href="https://programming-25.mooc.fi/part-1/1-getting-started" id="874">
   <title>Getting started - Python Programming MOOC 2025</title>
+</bookmark>
+<bookmark href="https://skillsmp.com/" id="889">
+  <title>Agent Skills Marketplace - Claude, Codex &amp; ChatGPT Skills | SkillsMP</title>
 </bookmark>
 </xbel>
