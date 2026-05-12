@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :891: for Floccus bookmark sync browser extension -->
+<!--- highestId :892: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -42,7 +42,7 @@
 <bookmark href="https://www.solotodo.cl/notebooks?ordering=offer_price_usd&amp;ram_quantity_start=103208&amp;screen_size_start=103138&amp;storage_capacity_start=103573&amp;video_card_types=102978&amp;weight_end=2000" id="890">
   <title>Notebooks | SoloTodo.cl</title>
 </bookmark>
-<bookmark href="https://www.solotodo.cl/televisores?brands=281102&amp;brands=281011&amp;brands=281115&amp;ordering=offer_price_usd&amp;page_size=100&amp;refresh_rate_start=279215&amp;size_family_value_end=76&amp;size_family_value_start=65" id="891">
+<bookmark href="https://www.solotodo.cl/televisores?brands=281102&amp;brands=281011&amp;ordering=offer_price_usd&amp;page_size=50&amp;refresh_rate_start=279215&amp;size_family_value_end=76&amp;size_family_value_start=70" id="892">
   <title>Televisores | SoloTodo.cl</title>
 </bookmark>
 <bookmark href="https://es.investing.com/currencies/eur-clp" id="884">
