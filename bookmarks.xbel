@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :898: for Floccus bookmark sync browser extension -->
+<!--- highestId :899: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
 </bookmark>
-<bookmark href="https://mtcu11.oraclehospitality.us-ashburn-1.ocs.oraclecloud.com/ETIME/operacloud" id="895">
-  <title>OPERA Cloud</title>
-</bookmark>
-<bookmark href="https://portal.ohra.oraclehospitality.ocs.oraclecloud.com/g0set4enrojuqayqbsof/portal/app/" id="898">
-  <title>Hospitality OPERA Reporting and Analytics</title>
-</bookmark>
+<folder id="899">
+  <title>Opera</title>
+  <bookmark href="https://mtcu11.oraclehospitality.us-ashburn-1.ocs.oraclecloud.com/ETIME/operacloud" id="895">
+    <title>OPERA Cloud</title>
+  </bookmark>
+  <bookmark href="https://portal.ohra.oraclehospitality.ocs.oraclecloud.com/g0set4enrojuqayqbsof/portal/app/" id="898">
+    <title>Hospitality OPERA Reporting and Analytics</title>
+  </bookmark>
+</folder>
 <folder id="2">
   <title>Padel</title>
   <bookmark href="https://www.tenissantuario.cl/Login.aspx" id="13">
