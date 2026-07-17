@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :901: for Floccus bookmark sync browser extension -->
+<!--- highestId :902: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -14,8 +14,8 @@
   <bookmark href="https://portal.ohra.oraclehospitality.ocs.oraclecloud.com/g0set4enrojuqayqbsof/portal/app/" id="898">
     <title>Hospitality OPERA Reporting and Analytics</title>
   </bookmark>
-  <bookmark href="https://8631609.app.netsuite.com/app/center/card.nl?sc=-29&amp;whence=" id="901">
-    <title>Inicio - NetSuite (Hotel Rugendas Boutique)</title>
+  <bookmark href="https://8631609.app.netsuite.com/pages/login.jsp" id="902">
+    <title>NetSuite Time</title>
   </bookmark>
 </folder>
 <folder id="2">
