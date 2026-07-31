@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :902: for Floccus bookmark sync browser extension -->
+<!--- highestId :903: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1">
   <title>Contabilidad Iunge</title>
@@ -2107,6 +2107,9 @@
   </bookmark>
   <bookmark href="http://192.168.1.55/admin/config.php" id="185">
     <title>FreePBX Administration</title>
+  </bookmark>
+  <bookmark href="https://192.168.1.6/#" id="903">
+    <title>Pritunl</title>
   </bookmark>
   <bookmark href="https://account.qnap.com/signin?lang=es&amp;state=%2Foauth%2Fauth%3Flang%3Des%26response_type%3Dtoken%26client_id%3D54d3144dd6b82f04b0dfea44%26redirect_uri%3Dhttps%253A%252F%252Fwww.myqnapcloud.com%252Freceive_auth%26state%3D%252Fu" id="186">
     <title>Centro de cuentas de QNAP</title>
